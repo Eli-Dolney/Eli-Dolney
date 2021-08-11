@@ -23,7 +23,7 @@
 
 Coding languages | AWS Services | Cyber Security | Tools |
 -----------------|--------------|-------------|-------|
-![HTML](./Photos/html.png "HTML")|Cloud Practitioner (in Progress)|Ethical Hacking (in progress)|![Pycharm](./Photos/pycharm.png "Pycharm")
+![<img src =https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png width ="200" height"200">](https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png "HTML")|Cloud Practitioner (in Progress)|Ethical Hacking (in progress)|![Pycharm](./Photos/pycharm.png "Pycharm")
 ![CSS](./Photos/CSS.png "CSS")|Solutions Architect (in progress)|Comptia Security+ (Not Started)|![github](./Photos/github.png "github")
 ![Python](./Photos/python.png "Python")|(N/A)|(N/A)|![PostgreSQL](./Photos/PostgreSQL.png "HTML")
 ![JavaScript](./Photos/javascript.png "JavaScript")|(N/A)|(N/A)|![Adobe Creative Cloud](./Photos/AdobeCC.png "Adobe Creative Cloud")
