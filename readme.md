@@ -21,15 +21,10 @@
 
 ### Languages and Tools:
 
-Coding languages | AWS Services | Cyber Security | Tools |
------------------|--------------|-------------|-------|
-![<img src =https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png width ="200" height"200">](https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png "HTML")|Cloud Practitioner (in Progress)|Ethical Hacking (in progress)|![Pycharm](./Photos/pycharm.png "Pycharm")
-![CSS](./Photos/CSS.png "CSS")|Solutions Architect (in progress)|Comptia Security+ (Not Started)|![github](./Photos/github.png "github")
-![Python](./Photos/python.png "Python")|(N/A)|(N/A)|![PostgreSQL](./Photos/PostgreSQL.png "HTML")
-![JavaScript](./Photos/javascript.png "JavaScript")|(N/A)|(N/A)|![Adobe Creative Cloud](./Photos/AdobeCC.png "Adobe Creative Cloud")
-
-
-
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-Dolney)](https://github.com/anuraghazra/github-readme-stats)
