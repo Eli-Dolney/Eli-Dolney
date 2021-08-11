@@ -23,10 +23,13 @@
 
 Coding languages | AWS Services | Cyber Security | Tools |
 -----------------|--------------|-------------|-------|
-![HTML](./Photos/HTML.png "HTML")|Cloud Practitioner (in Progress)|Ethical Hacking (in progress)|![Pycharm](./Photos/pycharm.png "Pycharm")
+![HTML](./Photos/html.png "HTML")|Cloud Practitioner (in Progress)|Ethical Hacking (in progress)|![Pycharm](./Photos/pycharm.png "Pycharm")
 ![CSS](./Photos/CSS.png "CSS")|Solutions Architect (in progress)|Comptia Security+ (Not Started)|![github](./Photos/github.png "github")
 ![Python](./Photos/python.png "Python")|(N/A)|(N/A)|![PostgreSQL](./Photos/PostgreSQL.png "HTML")
 ![JavaScript](./Photos/javascript.png "JavaScript")|(N/A)|(N/A)|![Adobe Creative Cloud](./Photos/AdobeCC.png "Adobe Creative Cloud")
+
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-Dolney)](https://github.com/anuraghazra/github-readme-stats)
