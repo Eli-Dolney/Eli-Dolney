@@ -32,6 +32,8 @@ Coding | Tools | AWS & Shopify | Cyber Security|
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-Dolney&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Dolney&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br />
