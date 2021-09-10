@@ -30,6 +30,9 @@ Coding | Tools | AWS & Shopify | Cyber Security|
 <img align="left" alt="python" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />|<img align="left" alt="Adobe Creative Cloud" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png"/>|<img align="left" alt="Shopify Partners" width="100px" src="https://cdn.eastsideco.com/media/v3/blog/shopify-partner-logo.jpg"/>|<img align="left" alt="" width="100px" src="" />
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-Dolney&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Dolney&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
