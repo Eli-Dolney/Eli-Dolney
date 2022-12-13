@@ -1,6 +1,5 @@
 ### Hi there, I'm Eli Dolney
 
-## I'm a Lifelong Learner, Developer, Father and Entrepreneur!
 -  I’m currently working on my personal website!
 - I’m currently learning several different coding languages as well as AWS services and Cyber Security material.
 -  I want to fill up my Github showing of my skills with different coding projects here.
