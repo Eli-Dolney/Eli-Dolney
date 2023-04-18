@@ -17,21 +17,23 @@
 
 ### Languages and Tools:
 
-| Coding          | Tools          | AWS & Shopify  | Cyber Security |
-|-----------------|----------------|----------------|----------------|
-| <img align="left" alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> | <img align="left" alt="PostgreSQL" width="100px" src="https://www.postgresql.org/media/img/about/press/elephant.png"> | | <img align="left" alt="Ethical Hacking" width="100px" src="https://www.fusd.net/cms/lib/CA50000190/Centricity/Domain/2996/CTE%20logos-07.png"> |
-| <img align="left" alt="CSS3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> | | | |
-| <img align="left" alt="JavaScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | | | |
-| <img align="left" alt="Python" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"> | | | |
+<p align="center">
+  <img alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img alt="CSS3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img alt="JavaScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img alt="Python" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png">
+  <img alt="PostgreSQL" width="100px" src="https://www.postgresql.org/media/img/about/press/elephant.png">
+  <img alt="Ethical Hacking" width="100px" src="https://www.fusd.net/cms/lib/CA50000190/Centricity/Domain/2996/CTE%20logos-07.png">
+</p>
 
 ### GitHub Stats:
 
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eli-Dolney&show_icons=true&locale=en">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eli-Dolney&show_icons=true&locale=en&layout=compact">
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eli-Dolney&" alt="Eli-Dolney" />
 </p>
 
