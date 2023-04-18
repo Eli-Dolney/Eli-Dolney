@@ -28,5 +28,10 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eli-Dolney&show_icons=true&locale=en">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eli-Dolney&show_icons=true&locale=en&layout=compact">
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eli-Dolney&" alt="Eli-Dolney" />
+</p>
 
