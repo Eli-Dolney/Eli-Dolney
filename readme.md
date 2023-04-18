@@ -1,10 +1,7 @@
 ### Hi there, I'm Eli Dolney
+<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
 
--  I’m currently working on my personal website!
-- I’m currently learning several different coding languages as well as AWS services and Cyber Security material.
--  I want to fill up my Github showing of my skills with different coding projects here.
--  Currently working on a shopify Webdev agency as well as a Print-on-Demand store!
-- Some of my interests are Coding, Stocks, Crypto, Sports and Hanging with my friends.   
+-  I’m currently working on my personal website!  
 
 ### Connect with me:
 
