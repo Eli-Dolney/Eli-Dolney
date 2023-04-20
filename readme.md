@@ -11,11 +11,16 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://www.google.com/" target="_blank" style="margin-right: 20px;"><img alt="Filler Website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="50px"></a>
-  <a href="https://www.linkedin.com/in/eli-dolney-415166161/" target="_blank" style="margin-right: 20px;"><img alt="Eli Dolney | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="50px"></a>
-  <a href="https://twitter.com/K9Ghostz" target="_blank" style="margin-right: 20px;"><img alt="Eli Dolney | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="50px"></a>
-  <a href="https://www.instagram.com/e.dolney/" target="_blank"><img alt="Eli Dolney | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="50px"></a>
+  <table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;"><a href="https://www.google.com/" target="_blank"><img alt="Filler Website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="50px"></a></td>
+      <td style="border: none;"><a href="https://www.linkedin.com/in/eli-dolney-415166161/" target="_blank"><img alt="Eli Dolney | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="50px"></a></td>
+      <td style="border: none;"><a href="https://twitter.com/K9Ghostz" target="_blank"><img alt="Eli Dolney | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="50px"></a></td>
+      <td style="border: none;"><a href="https://www.instagram.com/e.dolney/" target="_blank"><img alt="Eli Dolney | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="50px"></a></td>
+    </tr>
+  </table>
 </p>
+
 
 ### Languages and Tools:
 
