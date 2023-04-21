@@ -37,7 +37,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eli-Dolney&show_icons=true&locale=en">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eli-Dolne&show_icons=true&locale=en&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eli-Dolney&show_icons=true&locale=en&layout=compact">
 </p>
 
 <p align="center">
