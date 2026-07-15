@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Eli Dolney — build, play, teach, repeat" />
+  <img src="assets/hero.svg" width="100%" alt="Eli Dolney" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eli-Dolney&label=PROFILE+VIEWS&color=00B8D9&style=flat-square" alt="Eli-Dolney profile views" />
 </p>
 
 <p align="center">
   <a href="https://elidolney.dev/"><img src="https://img.shields.io/badge/Portfolio-elidolney.dev-00E5FF?style=for-the-badge&labelColor=111827" alt="Eli Dolney's portfolio" /></a>
   <a href="https://www.youtube.com/@learningthewires"><img src="https://img.shields.io/badge/YouTube-Learning_the_Wires-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Learning the Wires on YouTube" /></a>
   <a href="https://github.com/Eli-Dolney?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Eli's GitHub projects" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eli-Dolney&label=PROFILE+VIEWS&color=00B8D9&style=flat-square" alt="Eli-Dolney profile views" />
 </p>
 
 ## Hey, I'm Eli
