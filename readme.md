@@ -33,6 +33,7 @@ I enjoy the part of game development where an idea becomes a mechanic: movement,
 - [**CraftIsLove**](https://github.com/Eli-Dolney/CraftIsLove) — C++ game-development project
 - [**GrappleGun**](https://github.com/Eli-Dolney/GrappleGun) — Lua grapple-gun prototype
 - [**LTW Terraformer Tool**](https://github.com/Eli-Dolney/LTW_TerraformerTool) — Java world-tool experiment
+- **Structure Copy & Paste Tool** — planned Minecraft/Java builder with a 3D selection box for copying and pasting builds, plus a UI library for reusable trees, paths, and house variants
 
 </details>
 
